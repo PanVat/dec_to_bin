@@ -1,0 +1,3 @@
+C:/studenti/2023_2024/it2/filip_podeszwa/dekadickeNaBinarni/cmake-build-debug/CMakeFiles/dekadickeNaBinarni.dir
+C:/studenti/2023_2024/it2/filip_podeszwa/dekadickeNaBinarni/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/studenti/2023_2024/it2/filip_podeszwa/dekadickeNaBinarni/cmake-build-debug/CMakeFiles/rebuild_cache.dir
